@@ -1,3 +1,5 @@
+# Mux Bugbounty POC by @nvk0x
+
 import os
 import socket
 import requests
